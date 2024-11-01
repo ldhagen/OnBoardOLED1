@@ -1,0 +1,6 @@
+source "/home/ldhagen/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/ldhagen/esp/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "/home/ldhagen/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/ldhagen/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/ldhagen/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/ldhagen/Documents/OnBoardOLED1/i2c_oled/main/Kconfig.projbuild"
